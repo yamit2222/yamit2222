@@ -1,6 +1,6 @@
 ---
 
-### 🛠️ Tecnologías
+### Tecnologías
 
 #### 🔹 Backend
 ![Backend](https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,sequelize,js,jwt)
@@ -13,15 +13,15 @@
 ---
 
 #### 🔹 Herramientas
-![Tools](https://skillicons.dev/icons?i=docker,git,github,eslint,prettier,maven)
+![Tools](https://skillicons.dev/icons?i=docker,git,github,maven)
 
 ---
 
-### 📌 Proyectos destacados
+### Proyectos destacados
 - **Gestor de Cursos** – Spring Boot, MySQL  
 - **SWLubricentro** – Arquitectura controller / service / repository  
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamit2222&show_icons=true&theme=dark)
