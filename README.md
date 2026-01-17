@@ -24,5 +24,5 @@
 ---
 
 ### GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamit2222&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamit2222&show_icons=true&theme=dark&cache_seconds=86400)
 
