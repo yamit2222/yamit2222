@@ -24,4 +24,5 @@
 ---
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamit2222&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamit2222&show_icons=true&theme=github_dark&cache_seconds=1800)
+
