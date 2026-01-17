@@ -22,7 +22,3 @@
 - **SWLubricentro** – Arquitectura controller / service / repository  
 
 ---
-
-### GitHub Stats
-![Tools](https://skillicons.dev/icons?i=docker,git,github,eslint,prettier)
-
