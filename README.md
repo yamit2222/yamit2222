@@ -1,7 +1,3 @@
-## 👋 Hola, soy Yamit
-
-Estudiante de Ingeniería en Informática.  
-Interesado en desarrollo backend y sistemas de gestión.
 
 ---
 
@@ -12,7 +8,7 @@ Interesado en desarrollo backend y sistemas de gestión.
 
 ### 📌 Proyectos destacados
 - **Gestor de Cursos** – Spring Boot, MySQL  
-- **CRUD académico** – Arquitectura controller / service / repository  
+- **SWLubricentro** – Arquitectura controller / service / repository  
 
 ---
 
