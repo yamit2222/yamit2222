@@ -13,7 +13,7 @@
 ---
 
 #### 🔹 Herramientas
-![Tools](https://skillicons.dev/icons?i=docker,git,github,maven)
+![Tools](https://skillicons.dev/icons?i=docker,github,maven)
 
 ---
 
