@@ -24,5 +24,5 @@
 ---
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamit2222&show_icons=true&theme=dark&cache_seconds=86400)
+![Tools](https://skillicons.dev/icons?i=docker,git,github,eslint,prettier)
 
