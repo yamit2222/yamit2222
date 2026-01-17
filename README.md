@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hola, soy Yamit
 
-<!--
-**yamit2222/yamit2222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Informática.  
+Interesado en desarrollo backend y sistemas de gestión.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tecnologías
+![Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css)
+
+---
+
+### 📌 Proyectos destacados
+- **Gestor de Cursos** – Spring Boot, MySQL  
+- **CRUD académico** – Arquitectura controller / service / repository  
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamit2222&show_icons=true&theme=dark)
