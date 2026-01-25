@@ -19,6 +19,6 @@
 
 ### Proyectos destacados
 - **Gestor de Cursos** – Spring Boot, MySQL  
-- **SWLubricentro** – Arquitectura controller / service / repository  
+- **Sis-Gestion-Lubricentro** – MySQL-Express-React-Node.js.  
 
 ---
